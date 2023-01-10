@@ -7,7 +7,7 @@ if(a%i==0){
 count++;
 }
 
-} if(count==2){
+} if(count==1){
 console.log("Prime")
 }
 else{
