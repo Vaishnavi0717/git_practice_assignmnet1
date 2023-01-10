@@ -3,7 +3,7 @@ let count=0;
 
 for(let i=0; i<=a; i++){
 
-if(a%i==0){
+if(a%i==1){
 count++;
 }
 
