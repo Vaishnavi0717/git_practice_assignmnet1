@@ -1,6 +1,7 @@
 ### BAZARBUZZ
 
-![image](https://github.com/Danish0611/curly-hobbies-5555/blob/main/Assets/project_3.png?raw=true)
+![image]![Uploading Screenshot (278).png…]()
+)
 
 
 
