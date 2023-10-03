@@ -19,16 +19,19 @@ This is an example of how you may give instructions on setting up your project l
 
 This is an example of how to list things you need to use the software and how to install them.
 
-* npm:-  npm install npm@latest -g
+1. npm:-
+* npm install npm@latest -g
 
 
 ### Installation
 
 1.  Demo here []()
 
-2. Clone the repo:-  https://github.com/amolkpatil22/stoic-sack-3017.git
+2. Clone the repo:-
+   *  https://github.com/amolkpatil22/stoic-sack-3017.git
 
-3. Install NPM packages:-  npm install
+4. Install NPM packages:-
+   * npm install
 
 
 ## Demo
