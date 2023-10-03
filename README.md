@@ -74,7 +74,7 @@ Member :- Subhash Rawat (https://github.com/Imsubhahs)
 
 ## Creating A Pull Request
 Fork the Project
-1.Create your Feature Branch (git checkout -b feature/AmazingFeature)
-2.Commit your Changes (git commit -m 'Add some AmazingFeature')
-3.Push to the Branch (git push origin feature/AmazingFeature)
-4.Open a Pull Request
+* Create your Feature Branch (git checkout -b feature/AmazingFeature)
+* Commit your Changes (git commit -m 'Add some AmazingFeature')
+* Push to the Branch (git push origin feature/AmazingFeature)
+* Open a Pull Request
