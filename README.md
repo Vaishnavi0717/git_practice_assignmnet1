@@ -1,5 +1,7 @@
 ### ShopCart
 
+<img src="https://github.com/Vaishnavi0717/git_practice_assignmnet1/blob/main/Screenshot%202023-10-03%20142737.png" alt="Logo" width="80" height="80"/>
+
 ![image](https://github.com/Vaishnavi0717/git_practice_assignmnet1/blob/main/Screenshot%202023-10-03%20142737.png)
 
 
