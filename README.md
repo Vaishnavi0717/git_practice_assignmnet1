@@ -1,6 +1,6 @@
 ### BAZARBUZZ
 
-![image]![Uploading Screenshot (278).png…]()
+![image]https://github.com/Vaishnavi0717/git_practice_assignmnet1/blob/main/Screenshot%20(278).png
 )
 
 
