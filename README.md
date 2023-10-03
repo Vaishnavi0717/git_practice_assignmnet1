@@ -31,13 +31,10 @@ npm install npm@latest -g
 
 2. Clone the repo
 
-sh
 https://github.com/amolkpatil22/stoic-sack-3017.git
-
 
 3. Install NPM packages
 
-sh
 npm install
 
 
